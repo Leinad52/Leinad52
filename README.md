@@ -222,17 +222,32 @@
         <a href="https://medium.com/@tayyabadev" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 </div>
 
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
+
  ## Github Stats:
 <p align="center">
-    <a href="https://github.com/tayyabadev">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/Leinad52">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leinad52&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/Leinad52">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Leinad52&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Leinad52&bg_color=010803&color=18ba4e&line=18ba4e&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=18ba4e&theme=dark&border_radius=20px"/>
   </a> 
 </p>
 
@@ -260,13 +275,32 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leinad52/Leinad52/output/github-contribution-grid-snake.svg">
 </picture>
 
+<h2 align="center">🌐 Contato</h2>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<div align="center">
 
-#
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-campos-957571407)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@kampos._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kampos._/)
+
+📧 **Email:** [kamposdcbs@gmail.com](mailto:kamposdcbs@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *"Evoluindo um commit de cada vez."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CaioGomes26.CaioGomes26)
+
+</div>
 
  <div align="center">
   <a href="https://github.com/tayyabadev">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div>
+
+ 
