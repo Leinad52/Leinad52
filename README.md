@@ -222,21 +222,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Leinad52&show_icons=true" />
 </picture>
 
-
-
- ## Github Stats:
-<p align="center">
-    <a href="https://github.com/Leinad52">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leinad52&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Leinad52">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Leinad52&bg_color=010803&color=18ba4e&line=18ba4e&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=18ba4e&theme=dark&border_radius=20px"/>
-  </a> 
-</p>
-
 ## Meus trabalhos pessoais/escolares recentes
 
 <div align="center">
@@ -245,9 +230,23 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Leinad52&repo=Rack-&theme=dark" height="120"/>
 
+<p align="center">
+    <a href="https://github.com/Leinad52">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leinad52&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
 </div>
 
 <br>
+
+ ## Github Stats:
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Leinad52">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Leinad52&bg_color=010803&color=18ba4e&line=18ba4e&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=18ba4e&theme=dark&border_radius=20px"/>
+  </a> 
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leinad52/Leinad52/output/github-contribution-grid-snake-dark.svg">
@@ -278,7 +277,7 @@
 </div>
 
  <div align="center">
-  <a href="https://github.com/tayyabadev">
+  <a href="https://github.com/Leinad52">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div>
