@@ -204,36 +204,23 @@
   </td>
 </tr>
 </table>
-
 </td>
 </tr>
-
 </table>
-
-</div>
-
-
-## Connect with me:
-<div align="center">
-    <a href="https://www.linkedin.com/in/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:tayyabadev@gmail.com"><img src="https://img.shields.io/badge/-tayyabadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-    <a href="https://lablab.ai/u/@TayyadaDev" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-        <a href="https://medium.com/@tayyabadev" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 </div>
 
 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Leinad52&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Leinad52&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leinad52&show_icons=true" />
 </picture>
 
 
@@ -265,8 +252,6 @@
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Leinad52" alt="Leinad52" /></a> </p>
   
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <picture>
