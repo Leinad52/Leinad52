@@ -52,11 +52,11 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
     <br>Bootstrap
   </td>
-  
+
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
-    <br>Tailwind
+    <br>       
   </td>
+  
 </tr>
 </table>
 
@@ -133,8 +133,7 @@
 
 <tr>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=discord" width="40"/>
-    <br>Discord
+    <br>        
   </td>
 
   <td align="center">
@@ -238,21 +237,17 @@
   </a> 
 </p>
 
+## Meus trabalhos pessoais/escolares recentes
 
- <p align="center">
-   <a href="https://github.com/Leinad52"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leinad52&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" /> 
-   </a>  
- </p>
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Leinad52&repo=Nexar&theme=dark" height="120"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Leinad52&repo=Rack-&theme=dark" height="120"/>
+
+</div>
 
 <br>
-
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Leinad52" alt="Leinad52" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leinad52/Leinad52/output/github-contribution-grid-snake-dark.svg">
