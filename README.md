@@ -225,9 +225,11 @@
 ## Meus trabalhos pessoais/escolares recentes
 
 <div align="center">
-
+<a href="https://github.com/Leinad52/Nexar">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Leinad52&repo=Nexar&theme=dark" height="120"/>
+</a>
 
+<a href="https://github.com/Leinad52/Rack-">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Leinad52&repo=Rack-&theme=dark" height="120"/>
 
 <p align="center">
