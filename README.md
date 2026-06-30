@@ -119,14 +119,8 @@
 </tr>
 </table>
 
-</td>
-
-<td width="180" valign="top" align="center">
 
 <h3> Versionamento</h3>
-
-<table>
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
 </td>
@@ -135,7 +129,6 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub
 </td>
 </tr>
-</table>
 
 </td>
 
