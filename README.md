@@ -1,3 +1,349 @@
+# 👋 Olá, eu sou Daniel Campos
+<pre>
+
+                                                                                       _,------                        
+                                                                                      ///    /                      
+                                                                                     ///____/                       
+                                                                                     \/ZZZZ/                        
+                         ___________________        ___________                 _______________                      
+                       //\\                 \     ///\\        \               /\               \                    
+                      \\\\\\     ________    \    \\\\\\        \             //\\      ______    \                  
+                       \\\\\\    \   \\\\\    \    \\\\\\        \            \\\\\     \  \\\\\    \                
+                        \\\\\\    \   \\\\\    \    \\\\\\        \            \\\\\     \___\___\    \              
+                         \\\\\\    \___\___\    \    \\\\\\        \_________   \\\\\       ________    \            
+                          \\\\\\                 \    \\\\\\                  \  \\\\\      \  \\\\\\     \          
+                           \\\\\\ ________________\    \\\\\\__________________\  \\\\\______\  \\\\\\______\        
+                            \\//ZEEEEEEEEEEEEEEEEE/     \\//ZEEEEEEEEEEEEEEEEEE/   \\//ZEEEE/    \\\//ZEEEEE/        
+                             \/ZLLLLLLLLLLLLLLLLL/       \/ZLLLLLLLLLLLLLLLLLL/     \/ZLLLL/      \\/ZLLLLL/         
+
+</pre>
+<p align="center">
+  <h3 align="center">Data Science • Machine Learning • Python • SQL</h3>
+  <p align="center">
+    Transformando dados em soluções inteligentes.
+  </p>
+</p>
+
+---
+
+## 📑 Sobre mim
+
+- **Formação:** Estudante de Ciência de Dados e Técnico em Informática para Internet (SENAI).
+- **Interesses:** Análise de dados, Machine Learning e visualização de dados.
+- **Objetivo:** Em busca de oportunidades como Estagiário ou Analista de Dados Júnior.
+
+---
+
+## 🎓 Atualmente estudando
+
+- **Linguagens:** Python, SQL, JavaScript.
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn.
+- **Ferramentas & DevOps:** Git, GitHub, Docker, Jupyter Notebook.
+
+---
+
+# 🔧 Tecnologias
+
+
+
+
+
+
+
+<div align="center">
+
+<table align="center">
+
+<tr>
+
+<td width="250" valign="top" align="center">
+
+<h3> Frontend</h3>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="300" valign="top" align="center">
+
+<h3> Backend</h3>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="45"/><br>Django
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dotnet" width="45"/><br>.NET
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br>REST API
+</td>
+
+<td align="center">
+<img src="https://bruhin.software/img/logos/pytest.svg" width="35"/><br>Pytest
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="180" valign="top" align="center">
+
+<h3> Banco de Dados</h3>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+</td>
+</tr>
+</table>
+
+
+
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+
+<br>
+
+<h3>🛠️ Ambientes de Desenvolvimento</h3>
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQLWorkbench
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pycharm" width="45"/><br>PyCharm
+</td>
+
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" width="45"/><br>Jupyter Notebook
+</td>
+
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+## Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js"/>
+</p>
+
+## 🎲 Ciência de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
+</p>
+
+**Também estudo:**
+- SQL
+- Matplotlib
+- Scikit-Learn
+
+## Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+## Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm"/>
+</p>
+
+---
+
+# Roadmap
+
+- ✅ Git
+- ✅ GitHub
+- ✅ Python
+- ✅ SQL
+- ✅ Docker
+- ✅ Jupyter Notebook
+- ✅ Pandas
+- ✅ Matplotlib
+- 🟨 NumPy (Aprofundando)
+- 🟨 Scikit-Learn (Aprofundando)
+- ⬜ Power BI
+- ⬜ TensorFlow
+- ⬜ Apache Spark
+- ⬜ Airflow
+- ⬜ AWS
+
+---
+
+# 💼 Projeto em destaque
+
+## Nexar
+
+
+**Tecnologias**
+
+- Python
+- Flask
+- PostgreSQL
+- Docker
+- REST API
+
+---
+
+# 📈 GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribuições
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎯 Objetivos
+
+Meu objetivo é construir soluções utilizando Ciência de Dados, Machine Learning e Engenharia de Dados para transformar dados em informação e gerar valor para empresas.
+
+Busco evoluir continuamente através de projetos práticos, estudos e desafios.
+
+---
+
+# 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-campos-957571407/
+- 📷 Instagram: https://instagram.com/Kampos._
+- 📧 Email: profissionalkamposdcbs@gmail.com
+
+---
+
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge)
+
+> "Aprender continuamente é o primeiro passo para transformar dados em conhecimento."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      antigo logo abaixo
+
+
+
+
+
+
+
+
+
+
 # Hi, I'm Daniel Campos
 
 <pre>
