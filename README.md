@@ -73,7 +73,11 @@
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>JavaScript
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript
+</td>
+
+<td align="center">
+<img src="#" width="45"/><br>
 </td>
 
 </table>
@@ -131,13 +135,22 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>Git
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"/><br>Docker
 </td>
+
 </tr>
+
+<td align="center">
+<img src="#" width="45"/><br>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>Excel
+</td>
 </table>
 
 
