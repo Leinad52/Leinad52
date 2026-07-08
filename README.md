@@ -58,39 +58,31 @@
 
 <td width="250" valign="top" align="center">
 
-<h3> Frontend</h3>
+<h3> Desenvolvimento Web</h3>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>Html
 </td>
+  
 <td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>JavaScript
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind
-</td>
-</tr>
 
-<tr>
-<td colspan="2" align="center">
-<img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
-</td>
-</tr>
 </table>
 
 </td>
 
 <td width="300" valign="top" align="center">
 
-<h3> Backend</h3>
+<h3> Data Science</h3>
 
 <table>
 <tr>
@@ -99,33 +91,33 @@
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript
+<img src="https://cdn.simpleicons.org/sqlite/003B57" width="45"/><br>SQL
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="45"/><br>Django
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/><br>Scikit-Learn
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/><br>Matplotlib
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=dotnet" width="45"/><br>.NET
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>NumPy
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br>REST API
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/><br>Power BI
 </td>
 
 <td align="center">
-<img src="https://bruhin.software/img/logos/pytest.svg" width="35"/><br>Pytest
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="45"/><br>Tableau
 </td>
 </tr>
 </table>
@@ -134,7 +126,7 @@
 
 <td width="180" valign="top" align="center">
 
-<h3> Banco de Dados</h3>
+<h3> Ferramentas</h3>
 
 <table>
 <tr>
