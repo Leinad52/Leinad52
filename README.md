@@ -198,45 +198,6 @@
 </div>
 
 
-
-
-
-
-
-## Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js"/>
-</p>
-
-## 🎲 Ciência de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
-</p>
-
-**Também estudo:**
-- SQL
-- Matplotlib
-- Scikit-Learn
-
-## Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
-## Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm"/>
-</p>
-
----
-
 # Roadmap
 
 - ✅ Git
@@ -260,6 +221,11 @@
 # 💼 Projeto em destaque
 
 ## Nexar
+<p align="center">
+  <a href="https://github.com/Leinad52/Nexar">
+    <img src="https://githubcard.com/Leinad52/Nexar.svg?d=w2JPNsDrNUyU" width="800">
+  </a>
+</p>
 
 
 **Tecnologias**
