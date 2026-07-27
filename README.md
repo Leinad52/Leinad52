@@ -228,41 +228,6 @@
 </p>
 
 
-**Tecnologias**
-
-- Python
-- Flask
-- PostgreSQL
-- Docker
-- REST API
-
----
-
-# 📈 GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 🎯 Objetivos
 
 Meu objetivo é construir soluções utilizando Ciência de Dados, Machine Learning e Engenharia de Dados para transformar dados em informação e gerar valor para empresas.
