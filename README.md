@@ -1,4 +1,5 @@
 # 👋 Olá, eu sou Daniel Campos
+
 <pre>
 
                                                                                        _,------                        
@@ -17,38 +18,108 @@
                              \/ZLLLLLLLLLLLLLLLLL/       \/ZLLLLLLLLLLLLLLLLLL/     \/ZLLLL/      \\/ZLLLLL/         
 
 </pre>
+
 <p align="center">
-  <h3 align="center">Data Science • Machine Learning • Python • SQL</h3>
+  <h3 align="center">Software Development • Automação • Data Science</h3>
   <p align="center">
-    Transformando dados em soluções inteligentes.
+    Criando sistemas, automações e soluções inteligentes com tecnologia.
   </p>
 </p>
 
 ---
 
-## 📑 Sobre mim
+## Sobre mim
 
-- **Formação:** Estudante de Ciência de Dados e Técnico em Informática para Internet (SENAI).
-- **Interesses:** Análise de dados, Machine Learning e visualização de dados.
-- **Objetivo:** Em busca de oportunidades como Estagiário ou Analista de Dados Júnior.
+Sou estudante de **Ciência de Dados** e formado em **Informática para Internet pelo SENAI**, com interesse em diferentes áreas do desenvolvimento de software.
+
+Atualmente, trabalho e estudo principalmente com:
+
+*  Desenvolvimento **Front-end e Back-end**
+*  Criação de **automações e ferramentas**
+*  Ciência de Dados e análise de informações
+*  Desenvolvimento com **Python**
+*  Desenvolvimento de aplicações web
+*  Banco de dados e integração de sistemas
+*  Criação e evolução de produtos próprios
+
+Também sou **fundador da TaskPress**, uma iniciativa voltada para a criação de soluções e produtos tecnológicos.
 
 ---
 
-## 🎓 Atualmente estudando
+## O que eu faço
 
-- **Linguagens:** Python, SQL, JavaScript.
-- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-Learn.
-- **Ferramentas & DevOps:** Git, GitHub, Docker, Jupyter Notebook.
+### Desenvolvimento Web
+
+Construção de aplicações web completas, desde interfaces até sistemas no servidor.
+
+**Front-end**
+
+* HTML
+* CSS
+* JavaScript
+
+**Back-end**
+
+* Python
+* Django
+* Flask
+* APIs
+* Banco de dados
 
 ---
 
-# 🎯 Objetivos
+### Automações
 
-Meu objetivo é construir soluções utilizando Ciência de Dados, Machine Learning e Engenharia de Dados para transformar dados em informação e gerar valor para empresas.
+Criação de ferramentas para automatizar processos, integrar sistemas e reduzir tarefas manuais.
 
-Busco evoluir continuamente através de projetos práticos, estudos e desafios.
+Tenho interesse principalmente em automações envolvendo:
 
-# 🔧 Tecnologias
+* APIs
+* Scripts Python
+* Processamento de dados
+* Integração entre sistemas
+* Automação de processos
+* Ferramentas para desenvolvimento
+
+---
+
+### Ciência de Dados
+
+A Ciência de Dados continua sendo uma parte importante da minha formação e dos meus projetos.
+
+Estudo e utilizo:
+
+* Python
+* SQL
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+* Power BI
+
+Meu objetivo é utilizar dados não apenas para análise, mas também como parte de **sistemas e soluções completas**.
+
+---
+
+# TaskPress
+
+Sou fundador da **TaskPress**, uma iniciativa criada para desenvolver produtos, sistemas e soluções tecnológicas.
+
+A proposta é unir:
+
+**Desenvolvimento + Automação + Dados + Produtos Digitais**
+
+Entre os projetos desenvolvidos estão sistemas web, ferramentas de automação e produtos experimentais.
+
+### Projetos
+
+* **ServCenter** — sistema interno de gerenciamento para serviços automotivos.
+* **RACK+** — sistema inteligente para gerenciamento e monitoramento de dispositivos.
+* **OFFBEAT** — projeto experimental de jogo desenvolvido pela TaskPress.
+
+---
+
+# Tecnologias
 
 <div align="center">
 
@@ -61,11 +132,12 @@ Busco evoluir continuamente através de projetos práticos, estudos e desafios.
 <h3> Desenvolvimento Web</h3>
 
 <table>
+
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br>Html
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
 </td>
-  
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
 </td>
@@ -77,8 +149,9 @@ Busco evoluir continuamente através de projetos práticos, estudos e desafios.
 </td>
 
 <td align="center">
-<img src="#" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=django" width="45"/><br>Django
 </td>
+</tr>
 
 </table>
 
@@ -86,9 +159,10 @@ Busco evoluir continuamente através de projetos práticos, estudos e desafios.
 
 <td width="300" valign="top" align="center">
 
-<h3> Data Science</h3>
+<h3> Dados & Automação</h3>
 
 <table>
+
 <tr>
 <td align="center">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python
@@ -101,29 +175,22 @@ Busco evoluir continuamente através de projetos práticos, estudos e desafios.
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas
 </td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>NumPy
+</td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/><br>Matplotlib
+</td>
 
 <td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/><br>Scikit-Learn
 </td>
 </tr>
 
-<tr>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/><br>Matplotlib
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>NumPy
-</td>
-
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/><br>Power BI
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="45"/><br>Tableau
-</td>
-</tr>
 </table>
 
 </td>
@@ -133,106 +200,74 @@ Busco evoluir continuamente através de projetos práticos, estudos e desafios.
 <h3> Ferramentas</h3>
 
 <table>
+
 <tr>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>Git
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
 </td>
 
 <td align="center">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"/><br>Docker
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
 </td>
-
-</tr>
-
-<td align="center">
-<img src="#" width="45"/><br>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>Excel
-</td>
-</table>
-
-
-
-
-</td>
-
 </tr>
 
 <tr>
-<td colspan="4" align="center">
-
-<br>
-
-<h3>🛠️ Ambientes de Desenvolvimento</h3>
-
-<table>
-<tr>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQLWorkbench
+<img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
 </td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pycharm" width="45"/><br>PyCharm
-</td>
-
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" width="45"/><br>Jupyter Notebook
-</td>
-
-
 </tr>
+
 </table>
 
 </td>
+
 </tr>
 
 </table>
 
 </div>
 
+---
 
-# Roadmap
+#  Atualmente
 
-- ✅ Git
-- ✅ GitHub
-- ✅ Python
-- ✅ SQL
-- ✅ Docker
-- ✅ Jupyter Notebook
-- ✅ Pandas
-- ✅ Matplotlib
-- 🟨 NumPy (Aprofundando)
-- 🟨 Scikit-Learn (Aprofundando)
-- ⬜ Power BI
-- ⬜ TensorFlow
-- ⬜ Apache Spark
-- ⬜ Airflow
-- ⬜ AWS
+Estou focado em evoluir como **desenvolvedor de software**, construindo projetos que combinem diferentes áreas da tecnologia.
+
+Meus principais focos atualmente são:
+
+* Desenvolvimento Front-end e Back-end
+* Automações
+* Python
+* Django e desenvolvimento web
+* SQL e bancos de dados
+* Ciência de Dados
+* Machine Learning
+* Desenvolvimento de produtos através da TaskPress
 
 ---
 
-# 💼 Projeto em destaque
+# Projetos em destaque
 
-## Nexar
-<p align="center">
-  <a href="https://github.com/Leinad52/Nexar">
-    <img src="https://githubcard.com/Leinad52/Nexar.svg?d=w2JPNsDrNUyU" width="800">
-  </a>
-</p>
+### ServCenter
+
+Sistema web desenvolvido com Django para gerenciamento interno de serviços automotivos.
+
+### RACK+
+
+Sistema inteligente para gerenciamento e monitoramento de dispositivos em ambientes educacionais e corporativos.
 
 ---
 
-# 📫 Contato
+# Contato
+
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Campos-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daniel-campos-957571407/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-@kampos._-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kampos._-/)
 
 </div>
